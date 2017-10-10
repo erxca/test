@@ -3,4 +3,8 @@ aaaaaaaaaaaaaaaaa
 sub 
 master
 
+<<<<<<< .merge_file_a12612
 master
+=======
+sub2
+>>>>>>> .merge_file_a07152
